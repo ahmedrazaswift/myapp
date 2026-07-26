@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Advance Auto Motor Trading"
+rootProject.name = "AdvanceAutoMotorTrading"
 
 include(":app")
